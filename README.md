@@ -1,2 +1,2 @@
-# substraitor
-Your AI-powered development assistant for Substrate framework.
+# Substraitor
+Your AI-powered development assistant for the [Substrate](https://substrate.io/) framework.
