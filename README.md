@@ -7,7 +7,7 @@ The assistant is based on an existing LLM model and powered by Polkadot-specific
 
 
 ## Website
-https://111-741fbf.webflow.io/
+https://substraitor-site.pages.dev
 
 ## Contacts
 If you would like to be placed on a waiting list and be among the first developers to use the tool, share your ideas and experience with us or discuss the project idea and a roadmap, feel free to send us the details via email: substraitor@gmail.com
